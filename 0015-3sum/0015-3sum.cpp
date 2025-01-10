@@ -13,7 +13,7 @@ public:
                     r--;
                 } else if (sum < 0) {
                     l++;
-                }else {
+                } else {
                     res.push_back({nums[i], nums[l], nums[r]});
             
                 l++;

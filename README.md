@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dilip-Kashyp/leetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Dilip-Kashyp/leetCode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1470-shuffle-the-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dilip-Kashyp/leetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Dilip-Kashyp/leetCode/tree/master/0202-happy-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

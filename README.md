@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dilip-Kashyp/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dilip-Kashyp/leetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dilip-Kashyp/leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dilip-Kashyp/leetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dilip-Kashyp/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dilip-Kashyp/leetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dilip-Kashyp/leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Dilip-Kashyp/leetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dilip-Kashyp/leetCode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dilip-Kashyp/leetCode/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->

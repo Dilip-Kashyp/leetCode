@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dilip-Kashyp/leetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Dilip-Kashyp/leetCode/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Dilip-Kashyp/leetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 | Problem Name | Difficulty |

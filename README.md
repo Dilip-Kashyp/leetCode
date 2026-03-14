@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Dilip-Kashyp/leetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Dilip-Kashyp/leetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dilip-Kashyp/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dilip-Kashyp/leetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Dilip-Kashyp/leetCode/tree/main/0016-3sum-closest/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Dilip-Kashyp/leetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@
 | [1470-shuffle-the-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dilip-Kashyp/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/Dilip-Kashyp/leetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Dilip-Kashyp/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Dilip-Kashyp/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Dilip-Kashyp/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/Dilip-Kashyp/leetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Dilip-Kashyp/leetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Dilip-Kashyp/leetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Dilip-Kashyp/leetCode/tree/main/0057-insert-interval/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dilip-Kashyp/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Dilip-Kashyp/leetCode/tree/main/0724-find-pivot-index/) | Easy |

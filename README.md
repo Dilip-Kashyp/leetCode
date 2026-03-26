@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Dilip-Kashyp/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Dilip-Kashyp/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Dilip-Kashyp/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0704-binary-search](https://github.com/Dilip-Kashyp/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dilip-Kashyp/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dilip-Kashyp/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dilip-Kashyp/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Dilip-Kashyp/leetCode/tree/main/0704-binary-search/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

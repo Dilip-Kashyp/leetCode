@@ -56,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dilip-Kashyp/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Dilip-Kashyp/leetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Dilip-Kashyp/leetCode/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Dilip-Kashyp/leetCode/tree/main/0290-word-pattern/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dilip-Kashyp/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/Dilip-Kashyp/leetCode/tree/main/0290-word-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dilip-Kashyp/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

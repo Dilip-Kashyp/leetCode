@@ -72,6 +72,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Dilip-Kashyp/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dilip-Kashyp/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0657-robot-return-to-origin](https://github.com/Dilip-Kashyp/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

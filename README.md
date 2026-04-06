@@ -18,6 +18,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Dilip-Kashyp/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/Dilip-Kashyp/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dilip-Kashyp/leetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dilip-Kashyp/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -58,6 +59,7 @@
 | [0202-happy-number](https://github.com/Dilip-Kashyp/leetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Dilip-Kashyp/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Dilip-Kashyp/leetCode/tree/main/0290-word-pattern/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Dilip-Kashyp/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 | Problem Name | Difficulty |

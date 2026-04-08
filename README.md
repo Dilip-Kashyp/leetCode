@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dilip-Kashyp/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Dilip-Kashyp/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/Dilip-Kashyp/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Dilip-Kashyp/leetCode/tree/main/0290-word-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dilip-Kashyp/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -125,4 +126,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dilip-Kashyp/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dilip-Kashyp/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

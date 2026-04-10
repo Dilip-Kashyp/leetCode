@@ -19,6 +19,7 @@
 | [0704-binary-search](https://github.com/Dilip-Kashyp/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dilip-Kashyp/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dilip-Kashyp/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dilip-Kashyp/leetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -78,6 +79,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Dilip-Kashyp/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dilip-Kashyp/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Dilip-Kashyp/leetCode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -130,4 +132,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dilip-Kashyp/leetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dilip-Kashyp/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 <!---LeetCode Topics End-->

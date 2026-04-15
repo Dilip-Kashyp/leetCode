@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Dilip-Kashyp/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Dilip-Kashyp/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Dilip-Kashyp/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Dilip-Kashyp/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Dilip-Kashyp/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dilip-Kashyp/leetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -60,6 +61,7 @@
 | [0202-happy-number](https://github.com/Dilip-Kashyp/leetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Dilip-Kashyp/leetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Dilip-Kashyp/leetCode/tree/main/0290-word-pattern/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dilip-Kashyp/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Dilip-Kashyp/leetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dilip-Kashyp/leetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
@@ -132,5 +134,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dilip-Kashyp/leetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dilip-Kashyp/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dilip-Kashyp/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Dilip-Kashyp/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
